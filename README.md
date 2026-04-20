@@ -53,6 +53,12 @@ I explore both the **deep universe** and our **home planet** using science, data
 - 🌍 Climate and environmental monitoring  
 
 ---
+## 🌐 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mays-al-obaid-7a173622b)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dataspace2026?igsh=MW0wd3c1azliNWRoMA==)
+
+---
 ## 🌟 Quote
 > "Somewhere, something incredible is waiting to be known." — Carl Sagan
