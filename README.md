@@ -53,7 +53,9 @@ I explore both the **deep universe** and our **home planet** using science, data
 - 🌍 Climate and environmental monitoring  
 
 ---
-## 🌐 Connect with Me
+## 🌐 Connect with Me 
+
+Feel free to connect with me 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mays-al-obaid-7a173622b)
 
