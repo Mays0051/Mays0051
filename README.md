@@ -1,16 +1,63 @@
-## Hi there 👋
+# 🌌 Welcome to My Universe
 
-<!--
-**Mays0051/Mays0051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🚀 Astronomy | 🌠 Astrophysics | 🌌 Cosmology | 🌍 Earth Observation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 About Me
+I explore both the **deep universe** and our **home planet** using science, data, and code.
+ 
+- 🌌 Studying galaxies and the large-scale structure of the universe  
+- ☀️ Exploring solar physics (sunspots, solar corona, solar activity)  
+- 🌍 Working on Earth Observation using satellite data  
+- 🛰️ Using ESA SNAP & QGIS for geospatial analysis  
+- 🌐 Visualizing astronomical data with HiPS (Hierarchical Progressive Surveys)  
+
+---
+
+## 🚀 Projects
+
+### 🌌 Space & Cosmology
+- 🌠 Galaxy structure and evolution  
+- 🌌 Cosmological simulations  
+- 🪐 Dark matter research (basic level)  
+- 🌐 HiPS-based sky visualization projects  
+
+### ☀️ Solar Physics
+- ☀️ Sunspot analysis  
+- 🔥 Solar corona studies  
+- 🌞 Solar activity monitoring  
+
+### 🌍 Earth Observation
+- 🛰️ Satellite image processing (ESA SNAP)  
+- 🌱 Land use / land cover classification  
+- 🌊 Environmental monitoring with QGIS  
+
+---
+
+## 🛠️ Tools & Technologies
+- 🔭 Astropy  
+- 🌐 HiPS (astronomical data visualization)  
+- 🛰️ ESA SNAP  
+- 🌍 QGIS  
+- 🐍 Python  
+- 📊 NumPy / Matplotlib  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌠 Interests
+- 🌌 Large-scale structure of the universe  
+- 🌠 Galaxies and cosmology  
+- ☀️ Solar physics (sunspots & corona)  
+- 🪐 Exoplanets  
+- 🌍 Climate and environmental monitoring  
+
+---
+
+## 🌟 Quote
+> "Somewhere, something incredible is waiting to be known." — Carl Sagan
