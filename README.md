@@ -45,11 +45,6 @@ I explore both the **deep universe** and our **home planet** using science, data
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌠 Interests
 - 🌌 Large-scale structure of the universe  
 - 🌠 Galaxies and cosmology  
