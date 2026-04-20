@@ -55,7 +55,9 @@ I explore both the **deep universe** and our **home planet** using science, data
 ---
 ## 🌐 Connect with Me 
 
-Feel free to connect with me 👇
+💬 Feel free to connect with me 👇  
+
+Collaborate, code, or just say hi — all connections are welcome!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mays-al-obaid-7a173622b)
 
