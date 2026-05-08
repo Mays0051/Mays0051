@@ -7,26 +7,24 @@
 ## 🔭 About Me
 I explore both the **deep universe** and our **home planet** using science, data, and code.
  
-- 🌌 Studying galaxies and the large-scale structure of the universe  
-- ☀️ Exploring solar physics (sunspots, solar corona, solar activity)  
+- 🌐 Visualizing astronomical data with HiPS (Hierarchical Progressive Surveys) 
+- ☀️ Exploring solar physics (sunspots, solar corona, solar activity)
+- 🌌 Studying galaxies and the large-scale structure of the universe 
 - 🌍 Working on Earth Observation using satellite data  
 - 🛰️ Using ESA SNAP & QGIS for geospatial analysis  
-- 🌐 Visualizing astronomical data with HiPS (Hierarchical Progressive Surveys)  
+ 
 
 ---
 
 ## 🚀 Projects
 
 ### 🌌 Space & Cosmology
-- 🌠 Galaxy structure and evolution  
-- 🌌 Cosmological simulations  
-- 🪐 Dark matter research (basic level)  
-- 🌐 HiPS-based sky visualization projects  
+-  HiPS-based sky visualization projects 
+- Analyze CME events using observational solar data
+- Visualize CME structures and dynamics
+- Study their potential impact on the heliosphere and Earth
+ 
 
-### ☀️ Solar Physics
-- ☀️ Sunspot analysis  
-- 🔥 Solar corona studies  
-- 🌞 Solar activity monitoring  
 
 ### 🌍 Earth Observation
 - 🛰️ Satellite image processing (ESA SNAP)  
